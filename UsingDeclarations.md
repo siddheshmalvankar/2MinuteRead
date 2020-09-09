@@ -2,6 +2,7 @@
 
 If at all you want to ensure your variable is dispose at the end of program scope. C# 8.0 provides a language feature using Declaration
 
+```csharp
 private static void ReadTextFile(string FilePath)
       {
           int counter = 0;
