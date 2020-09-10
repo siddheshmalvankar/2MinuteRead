@@ -1,6 +1,6 @@
-#Using Declaration
+https://github.com/siddheshmalvankar/2MinuteRead/blob/master/UsingDeclarations.md
 
-If at all you want to ensure your variable is dispose at the end of program scope. C# 8.0 provides a language feature using Declaration
+If at all you want to ensure your variable is dispose at the end of program scope. C# 8.0 provides a language feature **using Declaration**
 
 ```csharp
 private static void ReadTextFile(string FilePath)
@@ -22,5 +22,5 @@ private static void ReadTextFile(string FilePath)
       }
       ```
       
-In the preceding example, the file is disposed when the closing brace for the method is reached. 
+In the preceding example, the 'file' variable is disposed when the closing brace for the method is reached. 
 That's the end of the scope in which file is declared.
