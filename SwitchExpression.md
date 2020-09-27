@@ -3,7 +3,7 @@
 
 
 ##### Swich Expression instead of Switch Statement
-
+As shown here is a simple example of Calculate function which accepts 2 values and an operator. 'operation' variable determines the type of operation to be performed and return the end result.
 ![alt text](/resources/4_SwitchExpression.png "Switch Expression") 
 
 ##### Key Highlights
