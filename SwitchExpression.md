@@ -4,7 +4,7 @@
 
 ##### Swich Expression instead of Switch Statement
 
-![alt text](/resources/3_Null-coalescing.png "Null-coalescing") 
+![alt text](/resources/4_SwitchExpression.png "Switch Expression") 
 
 ##### Key Highlights
 * Different order of the **swtich** keyword which is visually easily to distinguish.
